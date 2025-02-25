@@ -1,4 +1,4 @@
-package com.example.walkthroughlocation
+package com.example.walkthroughlocation.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
