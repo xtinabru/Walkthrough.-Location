@@ -51,6 +51,7 @@ dependencies {
     implementation(libs.androidx.material3)
     implementation("com.google.accompanist:accompanist-permissions:0.25.0")
     implementation("androidx.compose.runtime:runtime-livedata:1.7.8")
+    implementation(libs.play.services.location)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
